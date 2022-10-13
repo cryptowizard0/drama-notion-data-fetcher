@@ -7,5 +7,6 @@ import App from './App.vue'
 
 const app = createApp(App)
 
-app.use(VueAxios, axios, ElementPlus)
+app.use(VueAxios, axios)
+app.use(ElementPlus)
 app.mount('#app')

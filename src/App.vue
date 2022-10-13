@@ -1,5 +1,4 @@
 <template>
-  <img alt="logo" width="400" height="400" src="./assets/drama_myhead.jpeg">
   <DramaIndex msg="Welcome to Drama"/>
 </template>
 
